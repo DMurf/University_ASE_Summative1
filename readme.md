@@ -5,3 +5,7 @@ A super-simple javascript addition calculator. It adds two numbers, it uses JS i
 # Where can I see it?
 
 Firstly, why? But also - https://dmurf.github.io/University_ASE_Summative1/
+
+# Where's the code?
+
+Here - https://github.com/DMurf/University_ASE_Summative1
